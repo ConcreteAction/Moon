@@ -6,7 +6,9 @@ project: true
 comments: false
 ---
 
-![Planning Explained](https://concreteaction.github.io/blob/master/assets/img/PlanningExplained_Excerpt.jpg)
+![Planning Explained](https://github.com/ConcreteAction/concreteaction.github.io/blob/master/assets/img/PlanningExplained_Excerpt.jpg)
+
+
 
 This is [Download the PDF](https://concreteaction.github.io/blob/master/assets/img/PlanningExplained.pdf "Planning Explained") inline link.
 
