@@ -5,6 +5,7 @@ description:        ""
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/work_icon.png'
+logo_b:             'assets/img/work_icon_invert.png'
 background:         'assets/img/banner_copy.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
