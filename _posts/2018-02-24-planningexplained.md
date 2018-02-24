@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Planning explained
-excerpt: "Download the original planning explained booklet"
+title: Planning Explained
+excerpt: "Download the original planning explained infosheet"
 project: true
 comments: false
 ---
