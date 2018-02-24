@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: Planning explained
 excerpt: "Download the original planning explained booklet"
 project: true
