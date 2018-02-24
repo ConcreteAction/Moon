@@ -6,6 +6,7 @@ project: true
 comments: false
 ---
 
+
 ![Planning Explained](https://github.com/ConcreteAction/concreteaction.github.io/blob/master/assets/img/PlanningExplained_Excerpt.jpg)
 
 [Download the PDF](https://concreteaction.net/rsrcs/PlanningExplained.pdf "Planning Explained") 
