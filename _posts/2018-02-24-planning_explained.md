@@ -10,6 +10,6 @@ comments: false
 
 
 
-This is [Download the PDF](https://concreteaction.github.io/blob/master/assets/img/PlanningExplained.pdf "Planning Explained") inline link.
+[Download the PDF](https://github.com/ConcreteAction/concreteaction.github.io/blob/master/assets/img/PlanningExplained.pdf "Planning Explained") 
 
 A foldable A3 sheet to print at home
