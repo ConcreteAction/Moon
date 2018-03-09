@@ -1,8 +1,9 @@
 ---
 layout: post
-title: New resource: Procurement Timeline
-Date: 2018-03-09
-Tags: Resources
+title: "New resource: Procurement Timeline"
+Date: "2018-03-09"
+Tags: 
+- Resources
 Comments: True
 ---
 
