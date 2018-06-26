@@ -10,6 +10,6 @@ tag:
 comments: true
 ---
 
-Concrete Action is resident at Raven Row Gallery for the next year! We will be working on new campaigns and projects! Watch this space :)
 
-![Procurement Timeline](https://raw.githubusercontent.com/ConcreteAction/concreteaction.github.io/master/assets/img/Video.mov)
+
+![Concrete Action is resident at Raven Row Gallery for the next year! We will be working on new campaigns and projects! Watch this space](https://raw.githubusercontent.com/ConcreteAction/concreteaction.github.io/master/assets/img/Video.mov)
